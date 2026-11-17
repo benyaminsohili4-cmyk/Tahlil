@@ -1,188 +1,202 @@
 {
-  "updated_at": "2026-11-17T01:47:08+00:00",
+  "updated_at": "2026-11-17T15:46:19+00:00",
   "coins": [
     {
       "rank": 1,
       "name": "Bitcoin",
       "symbol": "BTC",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price": 64809,
-      "market_cap": 1303506279812,
-      "volume": 32925683166,
-      "change_1h": -0.43,
-      "change_24h": 0.08,
-      "change_7d": -14.18
+      "price": 64223,
+      "market_cap": 1291731856929,
+      "volume": 30597355813,
+      "change_1h": -0.12,
+      "change_24h": -0.23,
+      "change_7d": -11.89
     },
     {
       "rank": 2,
       "name": "Ethereum",
       "symbol": "ETH",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price": 1822.65,
-      "market_cap": 222772943249,
-      "volume": 11198394960,
-      "change_1h": -0.33,
-      "change_24h": 0.77,
-      "change_7d": -14.94
+      "price": 1785.28,
+      "market_cap": 218210266533,
+      "volume": 10439092816,
+      "change_1h": -0.85,
+      "change_24h": -1.56,
+      "change_7d": -12.3
     },
     {
       "rank": 3,
       "name": "Tether",
       "symbol": "USDT",
       "image": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-      "price": 0.99933,
-      "market_cap": 175326416997,
-      "volume": 50517413310,
-      "change_1h": -0.01,
-      "change_24h": -0.04,
-      "change_7d": 0.02
+      "price": 0.999298,
+      "market_cap": 175320764658,
+      "volume": 50399176755,
+      "change_1h": 0.0,
+      "change_24h": 0.0,
+      "change_7d": 0.03
     },
     {
       "rank": 4,
       "name": "BNB",
       "symbol": "BNB",
       "image": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
-      "price": 592.62,
-      "market_cap": 77936385851,
-      "volume": 616748834,
-      "change_1h": -0.1,
-      "change_24h": 0.31,
-      "change_7d": -14.54
+      "price": 587.89,
+      "market_cap": 77314302816,
+      "volume": 555085713,
+      "change_1h": -0.14,
+      "change_24h": 0.29,
+      "change_7d": -13.48
     },
     {
       "rank": 5,
       "name": "USDC",
       "symbol": "USDC",
       "image": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
-      "price": 0.999652,
-      "market_cap": 69238678685,
-      "volume": 13965503795,
+      "price": 0.999625,
+      "market_cap": 69112309290,
+      "volume": 12189697746,
       "change_1h": 0.0,
-      "change_24h": -0.0,
-      "change_7d": 0.02
+      "change_24h": 0.0,
+      "change_7d": 0.01
     },
     {
       "rank": 6,
       "name": "XRP",
       "symbol": "XRP",
       "image": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
-      "price": 0.958433,
-      "market_cap": 60876441815,
-      "volume": 1672315461,
-      "change_1h": -0.13,
-      "change_24h": -0.04,
-      "change_7d": -13.11
+      "price": 0.959744,
+      "market_cap": 60959680726,
+      "volume": 1445230895,
+      "change_1h": -0.42,
+      "change_24h": 1.04,
+      "change_7d": -8.77
     },
     {
       "rank": 7,
       "name": "Solana",
       "symbol": "SOL",
       "image": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "price": 71.84,
-      "market_cap": 42505448157,
-      "volume": 2477794532,
-      "change_1h": -0.08,
-      "change_24h": 0.81,
-      "change_7d": -17.49
+      "price": 72.38,
+      "market_cap": 42830197896,
+      "volume": 2910277778,
+      "change_1h": 0.01,
+      "change_24h": 2.71,
+      "change_7d": -12.36
     },
     {
       "rank": 8,
       "name": "TRON",
       "symbol": "TRX",
       "image": "https://coin-images.coingecko.com/coins/images/1094/large/photo_2026-04-13_09-59-16.png?1776048311",
-      "price": 0.305807,
-      "market_cap": 29065042156,
-      "volume": 256677408,
-      "change_1h": 0.01,
-      "change_24h": 0.86,
-      "change_7d": -3.89
+      "price": 0.307873,
+      "market_cap": 29261759694,
+      "volume": 266919608,
+      "change_1h": 0.48,
+      "change_24h": 1.1,
+      "change_7d": -3.39
     },
     {
       "rank": 9,
       "name": "Figure Heloc",
       "symbol": "FIGR_HELOC",
       "image": "https://coin-images.coingecko.com/coins/images/68480/large/figure.png?1755863954",
-      "price": 1.039,
-      "market_cap": 27728267536,
-      "volume": 14033367,
-      "change_1h": -0.83,
-      "change_24h": 0,
-      "change_7d": -0.09
+      "price": 1.04,
+      "market_cap": 27763758705,
+      "volume": 14294853,
+      "change_1h": -0.03,
+      "change_24h": -1.67,
+      "change_7d": -0.25
     },
     {
       "rank": 10,
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "image": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "price": 69.12,
-      "market_cap": 16432527203,
-      "volume": 1483978631,
-      "change_1h": -1.03,
-      "change_24h": 4.09,
-      "change_7d": -8.0
+      "price": 68.21,
+      "market_cap": 16214520136,
+      "volume": 1063266068,
+      "change_1h": -0.47,
+      "change_24h": 2.76,
+      "change_7d": -5.18
     }
   ],
   "analyzed": [
-    {
-      "rank": 5,
-      "name": "USDC",
-      "symbol": "USDC",
-      "image": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
-      "price": 0.999652,
-      "market_cap": 69238678685,
-      "volume": 13965503795,
-      "change_1h": 0.0,
-      "change_24h": -0.0,
-      "change_7d": 0.02,
-      "score": 1,
-      "reasons": []
-    },
-    {
-      "rank": 8,
-      "name": "TRON",
-      "symbol": "TRX",
-      "image": "https://coin-images.coingecko.com/coins/images/1094/large/photo_2026-04-13_09-59-16.png?1776048311",
-      "price": 0.305807,
-      "market_cap": 29065042156,
-      "volume": 256677408,
-      "change_1h": 0.01,
-      "change_24h": 0.86,
-      "change_7d": -3.89,
-      "score": 1,
-      "reasons": [
-        "📊 رشد ملایم (+0.86%)"
-      ]
-    },
-    {
-      "rank": 10,
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "image": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "price": 69.12,
-      "market_cap": 16432527203,
-      "volume": 1483978631,
-      "change_1h": -1.03,
-      "change_24h": 4.09,
-      "change_7d": -8.0,
-      "score": 1,
-      "reasons": [
-        "📊 رشد ملایم (+4.09%)"
-      ]
-    },
     {
       "rank": 3,
       "name": "Tether",
       "symbol": "USDT",
       "image": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-      "price": 0.99933,
-      "market_cap": 175326416997,
-      "volume": 50517413310,
-      "change_1h": -0.01,
-      "change_24h": -0.04,
-      "change_7d": 0.02,
-      "score": 0,
+      "price": 0.999298,
+      "market_cap": 175320764658,
+      "volume": 50399176755,
+      "change_1h": 0.0,
+      "change_24h": 0.0,
+      "change_7d": 0.03,
+      "score": 1,
+      "reasons": []
+    },
+    {
+      "rank": 5,
+      "name": "USDC",
+      "symbol": "USDC",
+      "image": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
+      "price": 0.999625,
+      "market_cap": 69112309290,
+      "volume": 12189697746,
+      "change_1h": 0.0,
+      "change_24h": 0.0,
+      "change_7d": 0.01,
+      "score": 1,
+      "reasons": []
+    },
+    {
+      "rank": 6,
+      "name": "XRP",
+      "symbol": "XRP",
+      "image": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
+      "price": 0.959744,
+      "market_cap": 60959680726,
+      "volume": 1445230895,
+      "change_1h": -0.42,
+      "change_24h": 1.04,
+      "change_7d": -8.77,
+      "score": 1,
       "reasons": [
-        "⚠️ افت ملایم (-0.04%)"
+        "📊 رشد ملایم (+1.04%)"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "TRON",
+      "symbol": "TRX",
+      "image": "https://coin-images.coingecko.com/coins/images/1094/large/photo_2026-04-13_09-59-16.png?1776048311",
+      "price": 0.307873,
+      "market_cap": 29261759694,
+      "volume": 266919608,
+      "change_1h": 0.48,
+      "change_24h": 1.1,
+      "change_7d": -3.39,
+      "score": 1,
+      "reasons": [
+        "📊 رشد ملایم (+1.10%)"
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "image": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "price": 68.21,
+      "market_cap": 16214520136,
+      "volume": 1063266068,
+      "change_1h": -0.47,
+      "change_24h": 2.76,
+      "change_7d": -5.18,
+      "score": 1,
+      "reasons": [
+        "📊 رشد ملایم (+2.76%)"
       ]
     },
     {
@@ -190,30 +204,66 @@
       "name": "Figure Heloc",
       "symbol": "FIGR_HELOC",
       "image": "https://coin-images.coingecko.com/coins/images/68480/large/figure.png?1755863954",
-      "price": 1.039,
-      "market_cap": 27728267536,
-      "volume": 14033367,
-      "change_1h": -0.83,
-      "change_24h": 0,
-      "change_7d": -0.09,
-      "score": 0,
-      "reasons": []
+      "price": 1.04,
+      "market_cap": 27763758705,
+      "volume": 14294853,
+      "change_1h": -0.03,
+      "change_24h": -1.67,
+      "change_7d": -0.25,
+      "score": -1,
+      "reasons": [
+        "⚠️ افت ملایم (-1.67%)"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "BNB",
+      "symbol": "BNB",
+      "image": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
+      "price": 587.89,
+      "market_cap": 77314302816,
+      "volume": 555085713,
+      "change_1h": -0.14,
+      "change_24h": 0.29,
+      "change_7d": -13.48,
+      "score": -2,
+      "reasons": [
+        "📊 رشد ملایم (+0.29%)",
+        "📉 روند نزولی هفتگی (-13.48%)"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Solana",
+      "symbol": "SOL",
+      "image": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "price": 72.38,
+      "market_cap": 42830197896,
+      "volume": 2910277778,
+      "change_1h": 0.01,
+      "change_24h": 2.71,
+      "change_7d": -12.36,
+      "score": -2,
+      "reasons": [
+        "📊 رشد ملایم (+2.71%)",
+        "📉 روند نزولی هفتگی (-12.36%)"
+      ]
     },
     {
       "rank": 1,
       "name": "Bitcoin",
       "symbol": "BTC",
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "price": 64809,
-      "market_cap": 1303506279812,
-      "volume": 32925683166,
-      "change_1h": -0.43,
-      "change_24h": 0.08,
-      "change_7d": -14.18,
-      "score": -2,
+      "price": 64223,
+      "market_cap": 1291731856929,
+      "volume": 30597355813,
+      "change_1h": -0.12,
+      "change_24h": -0.23,
+      "change_7d": -11.89,
+      "score": -4,
       "reasons": [
-        "📊 رشد ملایم (+0.08%)",
-        "📉 روند نزولی هفتگی (-14.18%)"
+        "⚠️ افت ملایم (-0.23%)",
+        "📉 روند نزولی هفتگی (-11.89%)"
       ]
     },
     {
@@ -221,67 +271,16 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "price": 1822.65,
-      "market_cap": 222772943249,
-      "volume": 11198394960,
-      "change_1h": -0.33,
-      "change_24h": 0.77,
-      "change_7d": -14.94,
-      "score": -2,
-      "reasons": [
-        "📊 رشد ملایم (+0.77%)",
-        "📉 روند نزولی هفتگی (-14.94%)"
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "BNB",
-      "symbol": "BNB",
-      "image": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
-      "price": 592.62,
-      "market_cap": 77936385851,
-      "volume": 616748834,
-      "change_1h": -0.1,
-      "change_24h": 0.31,
-      "change_7d": -14.54,
-      "score": -2,
-      "reasons": [
-        "📊 رشد ملایم (+0.31%)",
-        "📉 روند نزولی هفتگی (-14.54%)"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Solana",
-      "symbol": "SOL",
-      "image": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "price": 71.84,
-      "market_cap": 42505448157,
-      "volume": 2477794532,
-      "change_1h": -0.08,
-      "change_24h": 0.81,
-      "change_7d": -17.49,
-      "score": -2,
-      "reasons": [
-        "📊 رشد ملایم (+0.81%)",
-        "📉 روند نزولی هفتگی (-17.49%)"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "XRP",
-      "symbol": "XRP",
-      "image": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
-      "price": 0.958433,
-      "market_cap": 60876441815,
-      "volume": 1672315461,
-      "change_1h": -0.13,
-      "change_24h": -0.04,
-      "change_7d": -13.11,
+      "price": 1785.28,
+      "market_cap": 218210266533,
+      "volume": 10439092816,
+      "change_1h": -0.85,
+      "change_24h": -1.56,
+      "change_7d": -12.3,
       "score": -4,
       "reasons": [
-        "⚠️ افت ملایم (-0.04%)",
-        "📉 روند نزولی هفتگی (-13.11%)"
+        "⚠️ افت ملایم (-1.56%)",
+        "📉 روند نزولی هفتگی (-12.30%)"
       ]
     }
   ]
